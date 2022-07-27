@@ -252,3 +252,11 @@ article.lastSlide {
 article.nextSlide {
   transform: translateX(100%);
 } 
+
+.footer{
+  text-align: center;
+  border: none;
+  padding: 20px;
+  margin-top: 0px;
+
+}
